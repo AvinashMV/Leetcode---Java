@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddDigit/AddDigit.iml" filepath="$PROJECT_DIR$/AddDigit/AddDigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anagram/Anagram.iml" filepath="$PROJECT_DIR$/Anagram/Anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/ContainsDuplicate/ContainsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContainsDuplicateII/ContainsDuplicateII.iml" filepath="$PROJECT_DIR$/ContainsDuplicateII/ContainsDuplicateII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountPrime/CountPrime.iml" filepath="$PROJECT_DIR$/CountPrime/CountPrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeleteNode-LinkedList/DeleteNode-LinkedList.iml" filepath="$PROJECT_DIR$/DeleteNode-LinkedList/DeleteNode-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Folder3.iml" filepath="$PROJECT_DIR$/Folder3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyNumber/HappyNumber.iml" filepath="$PROJECT_DIR$/HappyNumber/HappyNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImplementQueueUsingStack/ImplementQueueUsingStack.iml" filepath="$PROJECT_DIR$/ImplementQueueUsingStack/ImplementQueueUsingStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImplementStackUsingQueue/ImplementStackUsingQueue.iml" filepath="$PROJECT_DIR$/ImplementStackUsingQueue/ImplementStackUsingQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsomorphicString/IsomorphicString.iml" filepath="$PROJECT_DIR$/IsomorphicString/IsomorphicString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LowestCommonAncestorOfBinarySearchTree/LowestCommonAncestorOfBinarySearchTree.iml" filepath="$PROJECT_DIR$/LowestCommonAncestorOfBinarySearchTree/LowestCommonAncestorOfBinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MissingNumber/MissingNumber.iml" filepath="$PROJECT_DIR$/MissingNumber/MissingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoveZeros/MoveZeros.iml" filepath="$PROJECT_DIR$/MoveZeros/MoveZeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromeList/PalindromeList.iml" filepath="$PROJECT_DIR$/PalindromeList/PalindromeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PowerofTwo/PowerofTwo.iml" filepath="$PROJECT_DIR$/PowerofTwo/PowerofTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeFactors/PrimeFactors.iml" filepath="$PROJECT_DIR$/PrimeFactors/PrimeFactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UglyNumber/UglyNumber.iml" filepath="$PROJECT_DIR$/UglyNumber/UglyNumber.iml" />
+    </modules>
+  </component>
+</project>

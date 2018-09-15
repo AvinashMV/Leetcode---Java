@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxSubArray/MaxSubArray.iml" filepath="$PROJECT_DIR$/MaxSubArray/MaxSubArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortedLists/MergeSortedLists.iml" filepath="$PROJECT_DIR$/MergeSortedLists/MergeSortedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveElement/RemoveElement.iml" filepath="$PROJECT_DIR$/RemoveElement/RemoveElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" filepath="$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringFindReplace/StringFindReplace.iml" filepath="$PROJECT_DIR$/StringFindReplace/StringFindReplace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTemporary/TestTemporary.iml" filepath="$PROJECT_DIR$/TestTemporary/TestTemporary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Valid Paranthesis/Valid Paranthesis.iml" filepath="$PROJECT_DIR$/Valid Paranthesis/Valid Paranthesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/implementStrStr()/implementStrStr().iml" filepath="$PROJECT_DIR$/implementStrStr()/implementStrStr().iml" />
+    </modules>
+  </component>
+</project>
